@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right,white,lightblue);
+}
+#main{
+    margin-top:6vh;
+}
+
+textarea 
+{ resize: none; }
+
+form{
+    padding-left: 10%;
+}
+
+h2{
+    margin-bottom: 45px;
+    color:blue;
+}
+
+#table_div{
+    padding:8%;
+}
